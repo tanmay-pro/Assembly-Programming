@@ -1,4 +1,4 @@
-# System-Level Algorithms in Assembly in x86
+# System-Level Algorithms in x86
 
 This repository contains solutions to various system-level programming challenges implemented in ARM Assembly. These solutions demonstrate the application of low-level programming concepts, including memory management, data manipulation, and hardware-software optimization.  
 
