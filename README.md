@@ -1,4 +1,4 @@
-# System-Level Algorithms in Assembly  
+# System-Level Algorithms in Assembly in x86
 
 This repository contains solutions to various system-level programming challenges implemented in ARM Assembly. These solutions demonstrate the application of low-level programming concepts, including memory management, data manipulation, and hardware-software optimization.  
 
@@ -28,5 +28,5 @@ This repository contains solutions to various system-level programming challenge
      - Two 32-bit unsigned integers.  
 
 ## Prerequisites  
-- **Assembler and Simulator**: Ensure an appropriate ARM Assembly development environment is installed (e.g., ARM Keil, QEMU).  
+- **Assembler and Simulator**: x86 Assembly Language tools (e.g., MASM, NASM); A suitable emulator or x86 system for execution and testing.  
 - **Basic Understanding**: Familiarity with Assembly language syntax and concepts like registers, memory, and instruction sets.
